@@ -1,0 +1,37 @@
+
+.license-page {
+    background: #0a0f1c;
+    font-family: 'Courier New', monospace;
+    color: #d0d6f9;
+    padding: 50px;
+}
+
+.license-container {
+    max-width: 900px;
+    margin: auto;
+    background: rgba(20, 30, 60, 0.85);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 30px rgba(0, 255, 204, 0.2);
+}
+
+h1 {
+    color: #00ffcc;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.owner {
+    color: #00aaff;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+h3 {
+    color: #00ffcc;
+    margin-top: 25px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
